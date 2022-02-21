@@ -1,0 +1,20 @@
+input, textarea{
+    width: 75%;
+}
+
+/*Form Inputs Customization */
+input[type=text],
+input[type=email],
+input[type=tel] {
+    height: 34px;
+    padding: 0 8px;
+    border: 1px solid #bfbfbf;
+    background: #FFFFFF;
+    font-size: 15px;
+}
+
+/*Submit Button */
+input[type=submit] {
+    font-size: 20px;
+    font-weight: bold;
+}

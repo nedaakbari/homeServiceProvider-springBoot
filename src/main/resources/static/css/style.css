@@ -1,0 +1,22 @@
+
+*, ::after, ::before {
+	box-sizing: border-box;
+}
+
+
+body,html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	background-color: #fff;
+}
+.box {direction: rtl !important;}
+
+
+/*
+body, html {
+	height: 100%;
+	font-family: Poppins-Regular, sans-serif;
+    background-image: linear-gradient(90deg,#9c27B0,#673AB7);
+}*/
